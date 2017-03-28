@@ -1,0 +1,87 @@
+########## lesmis ##########
+Direcionado: False
+77 vertices
+254 arestas
+Pseudo-diametro: 5.0
+Maior componente(existe so uma p/ todos): 77
+Densidade: 0.0868079289132
+5 maiores graus: 
+Valjean 36
+Gavroche 22
+Marius 19
+Javert 17
+Thenardier 16
+
+Grau medio: 6
+Grau min: 1
+Grau max: 36
+Grau desvio: 6.00056218202
+dist min: 1
+dist max: 5
+dist media: 2.64114832536
+dist desvio: 0.855444894629
+Local cluster min: 0.0
+Local cluster max: 1.0
+Local Avg/STD cluster :(0.5731367499320135, 0.047155713798118983)
+Global clustering coeffi/STD: (0.49893162393162394, 0.1150252486325887)
+Maior pg: Valjean(0.0754302258377)
+
+
+
+########## football ##########
+Direcionado: False
+115 vertices
+616 arestas
+Pseudo-diametro: 4.0
+Maior componente(existe so uma p/ todos): 115
+Densidade: 0.0939740655988
+5 maiores graus: 
+KansasState 13
+NevadaLasVegas 12
+Tulsa 12
+Oklahoma 12
+Nevada 12
+
+Grau medio: 10
+Grau min: 7
+Grau max: 13
+Grau desvio: 0.920918420513
+dist min: 1
+dist max: 4
+dist media: 2.50816170862
+dist desvio: 0.728656470157
+Local cluster min: 0.111111111111
+Local cluster max: 0.666666666667
+Local Avg/STD cluster :(0.40322580800841673, 0.0097759329406634284)
+Global clustering coeffi/STD: (0.40633289124668437, 0.008887179149385709)
+Maior pg: KansasState(0.0102316443787)
+
+
+
+########## internet ##########
+Direcionado: False
+22963 vertices
+48436 arestas
+Pseudo-diametro: 11.0
+Maior componente(existe so uma p/ todos): 22963
+Densidade: 0.000183721476815
+5 maiores graus: 
+701 2390
+7018 2016
+1239 1713
+3356 1298
+174 1243
+
+Grau medio: 4
+Grau min: 1
+Grau max: 2390
+Grau desvio: 32.9424274438
+dist min: 1
+dist max: 11
+dist media: 3.84222602215
+dist desvio: 0.895609961993
+Local cluster min: 0.0
+Local cluster max: 1.0
+Local Avg/STD cluster :(0.2304476752355945, 0.0025641242597938454)
+Global clustering coeffi/STD: (0.011146383847822162, 0.0038670419383400236)
+Maior pg: 701(0.0230895560939)
